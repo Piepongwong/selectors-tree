@@ -1,0 +1,36 @@
+/* demonstrating priority rules */
+/* #super-important {
+    background-color: pink;
+}
+li {
+    background-color: yellow;
+}
+
+.container li {
+    background-color: blue;
+}
+
+.container li {
+    background-color: purple;
+} */
+/* end demonstrating priority rules */
+
+.container li.nav-item {
+    background-color: yellow;
+}
+
+#super-important + li {
+    background-color: bisque;
+}
+
+.side-bar li {
+    background-color: black;
+}
+
+.side-bar ul {
+    list-style-type: none;
+}
+
+.side-bar h1 {
+    color: aliceblue;
+}

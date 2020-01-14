@@ -1,0 +1,3 @@
+## Advanced Selectors and Hero Image Demo Code
+
+This is demo code that belongs to the first day of week 2 of the part-time web dev course. In index.html and style.css you'll find code that was used to demonstrate some selector concepts, like priority rules and the difference between descendants, direct children, siblings, ancestors and parents. fill.html and fill.css show how to center content with flex-box and how to make an image completely fill the viewport. It also shows how to overwrite the default css properties (named 'user agent stylesheet' in the dev-tools).
